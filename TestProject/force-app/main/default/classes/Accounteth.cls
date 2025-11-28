@@ -1,5 +1,5 @@
 public class Accounteth {
-    //commeted by ghouse
+    //commeted by ghouse mohiddin
     @AuraEnabled(cacheable=true)
     
     public static List<Account> fetchAccounts(){
